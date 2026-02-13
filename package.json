@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npx serve public -l 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
